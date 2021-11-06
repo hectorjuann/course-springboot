@@ -13,7 +13,7 @@ import com.educandoweb.course.entities.Category;
 import com.educandoweb.course.services.CategoryService;
 
 @RestController
-@RequestMapping("/categorys")
+@RequestMapping("/categories")
 public class CategoryResource {
 
 	@Autowired
